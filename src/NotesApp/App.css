@@ -1,0 +1,13 @@
+input{
+    border: none;
+    display: block;
+    width: 800px;
+    height: 100px;
+    font-size: 50px;
+    text-decoration:underline
+}
+button{
+    border: none;
+    background-color: white;
+    color: rgb(204, 139, 19)
+}   
